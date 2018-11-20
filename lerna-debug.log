@@ -146,167 +146,167 @@
 105 silly dependencyIsSatisfied [ 'web3-eth-iban',
 105 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 105 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-core-helpers/node_modules' ]
-106 verbose dependencyIsSatisfied web3-eth-iban true
+106 verbose dependencyIsSatisfied web3-eth-iban false
 107 silly hasDependencyInstalled @open-city-protocol/web3-eth web3-eth-iban
 108 silly dependencyIsSatisfied [ 'web3-eth-iban',
 108 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 108 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth/node_modules' ]
-109 verbose dependencyIsSatisfied web3-eth-iban true
+109 verbose dependencyIsSatisfied web3-eth-iban false
 110 silly hasDependencyInstalled @open-city-protocol/web3-core-helpers web3-utils
 111 silly dependencyIsSatisfied [ 'web3-utils',
 111 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 111 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-core-helpers/node_modules' ]
-112 verbose dependencyIsSatisfied web3-utils true
+112 verbose dependencyIsSatisfied web3-utils false
 113 silly hasDependencyInstalled @open-city-protocol/web3-core-method web3-utils
 114 silly dependencyIsSatisfied [ 'web3-utils',
 114 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 114 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-core-method/node_modules' ]
-115 verbose dependencyIsSatisfied web3-utils true
+115 verbose dependencyIsSatisfied web3-utils false
 116 silly hasDependencyInstalled @open-city-protocol/web3-core web3-utils
 117 silly dependencyIsSatisfied [ 'web3-utils',
 117 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 117 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-core/node_modules' ]
-118 verbose dependencyIsSatisfied web3-utils true
+118 verbose dependencyIsSatisfied web3-utils false
 119 silly hasDependencyInstalled @open-city-protocol/web3-eth-abi web3-utils
 120 silly dependencyIsSatisfied [ 'web3-utils',
 120 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 120 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-abi/node_modules' ]
-121 verbose dependencyIsSatisfied web3-utils true
+121 verbose dependencyIsSatisfied web3-utils false
 122 silly hasDependencyInstalled @open-city-protocol/web3-eth-accounts web3-utils
 123 silly dependencyIsSatisfied [ 'web3-utils',
 123 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 123 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-accounts/node_modules' ]
-124 verbose dependencyIsSatisfied web3-utils true
+124 verbose dependencyIsSatisfied web3-utils false
 125 silly hasDependencyInstalled @open-city-protocol/web3-eth-contract web3-utils
 126 silly dependencyIsSatisfied [ 'web3-utils',
 126 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 126 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-contract/node_modules' ]
-127 verbose dependencyIsSatisfied web3-utils true
+127 verbose dependencyIsSatisfied web3-utils false
 128 silly hasDependencyInstalled @open-city-protocol/web3-eth-ens web3-utils
 129 silly dependencyIsSatisfied [ 'web3-utils',
 129 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 129 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-ens/node_modules' ]
-130 verbose dependencyIsSatisfied web3-utils true
+130 verbose dependencyIsSatisfied web3-utils false
 131 silly hasDependencyInstalled @open-city-protocol/web3-eth-iban web3-utils
 132 silly dependencyIsSatisfied [ 'web3-utils',
 132 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 132 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-iban/node_modules' ]
-133 verbose dependencyIsSatisfied web3-utils true
+133 verbose dependencyIsSatisfied web3-utils false
 134 silly hasDependencyInstalled @open-city-protocol/web3-eth-personal web3-utils
 135 silly dependencyIsSatisfied [ 'web3-utils',
 135 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 135 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-personal/node_modules' ]
-136 verbose dependencyIsSatisfied web3-utils true
+136 verbose dependencyIsSatisfied web3-utils false
 137 silly hasDependencyInstalled @open-city-protocol/web3-eth web3-utils
 138 silly dependencyIsSatisfied [ 'web3-utils',
 138 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 138 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth/node_modules' ]
-139 verbose dependencyIsSatisfied web3-utils true
+139 verbose dependencyIsSatisfied web3-utils false
 140 silly hasDependencyInstalled @open-city-protocol/web3-net web3-utils
 141 silly dependencyIsSatisfied [ 'web3-utils',
 141 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 141 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-net/node_modules' ]
-142 verbose dependencyIsSatisfied web3-utils true
+142 verbose dependencyIsSatisfied web3-utils false
 143 silly hasDependencyInstalled @open-city-protocol/web3 web3-utils
 144 silly dependencyIsSatisfied [ 'web3-utils',
 144 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 144 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3/node_modules' ]
-145 verbose dependencyIsSatisfied web3-utils true
+145 verbose dependencyIsSatisfied web3-utils false
 146 silly hasDependencyInstalled @open-city-protocol/web3-core-method web3-core-helpers
 147 silly dependencyIsSatisfied [ 'web3-core-helpers',
 147 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 147 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-core-method/node_modules' ]
-148 verbose dependencyIsSatisfied web3-core-helpers true
+148 verbose dependencyIsSatisfied web3-core-helpers false
 149 silly hasDependencyInstalled @open-city-protocol/web3-core-requestmanager web3-core-helpers
 150 silly dependencyIsSatisfied [ 'web3-core-helpers',
 150 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 150 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-core-requestmanager/node_modules' ]
-151 verbose dependencyIsSatisfied web3-core-helpers true
+151 verbose dependencyIsSatisfied web3-core-helpers false
 152 silly hasDependencyInstalled @open-city-protocol/web3-core-subscriptions web3-core-helpers
 153 silly dependencyIsSatisfied [ 'web3-core-helpers',
 153 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 153 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-core-subscriptions/node_modules' ]
-154 verbose dependencyIsSatisfied web3-core-helpers true
+154 verbose dependencyIsSatisfied web3-core-helpers false
 155 silly hasDependencyInstalled @open-city-protocol/web3-core web3-core-helpers
 156 silly dependencyIsSatisfied [ 'web3-core-helpers',
 156 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 156 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-core/node_modules' ]
-157 verbose dependencyIsSatisfied web3-core-helpers true
+157 verbose dependencyIsSatisfied web3-core-helpers false
 158 silly hasDependencyInstalled @open-city-protocol/web3-eth-accounts web3-core-helpers
 159 silly dependencyIsSatisfied [ 'web3-core-helpers',
 159 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 159 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-accounts/node_modules' ]
-160 verbose dependencyIsSatisfied web3-core-helpers true
+160 verbose dependencyIsSatisfied web3-core-helpers false
 161 silly hasDependencyInstalled @open-city-protocol/web3-eth-contract web3-core-helpers
 162 silly dependencyIsSatisfied [ 'web3-core-helpers',
 162 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 162 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-contract/node_modules' ]
-163 verbose dependencyIsSatisfied web3-core-helpers true
+163 verbose dependencyIsSatisfied web3-core-helpers false
 164 silly hasDependencyInstalled @open-city-protocol/web3-eth-ens web3-core-helpers
 165 silly dependencyIsSatisfied [ 'web3-core-helpers',
 165 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 165 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-ens/node_modules' ]
-166 verbose dependencyIsSatisfied web3-core-helpers true
+166 verbose dependencyIsSatisfied web3-core-helpers false
 167 silly hasDependencyInstalled @open-city-protocol/web3-eth-personal web3-core-helpers
 168 silly dependencyIsSatisfied [ 'web3-core-helpers',
 168 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 168 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-personal/node_modules' ]
-169 verbose dependencyIsSatisfied web3-core-helpers true
+169 verbose dependencyIsSatisfied web3-core-helpers false
 170 silly hasDependencyInstalled @open-city-protocol/web3-eth web3-core-helpers
 171 silly dependencyIsSatisfied [ 'web3-core-helpers',
 171 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 171 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth/node_modules' ]
-172 verbose dependencyIsSatisfied web3-core-helpers true
+172 verbose dependencyIsSatisfied web3-core-helpers false
 173 silly hasDependencyInstalled @open-city-protocol/web3-providers-http web3-core-helpers
 174 silly dependencyIsSatisfied [ 'web3-core-helpers',
 174 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 174 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-providers-http/node_modules' ]
-175 verbose dependencyIsSatisfied web3-core-helpers true
+175 verbose dependencyIsSatisfied web3-core-helpers false
 176 silly hasDependencyInstalled @open-city-protocol/web3-providers-ipc web3-core-helpers
 177 silly dependencyIsSatisfied [ 'web3-core-helpers',
 177 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 177 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-providers-ipc/node_modules' ]
-178 verbose dependencyIsSatisfied web3-core-helpers true
+178 verbose dependencyIsSatisfied web3-core-helpers false
 179 silly hasDependencyInstalled @open-city-protocol/web3-providers-ws web3-core-helpers
 180 silly dependencyIsSatisfied [ 'web3-core-helpers',
 180 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 180 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-providers-ws/node_modules' ]
-181 verbose dependencyIsSatisfied web3-core-helpers true
+181 verbose dependencyIsSatisfied web3-core-helpers false
 182 silly hasDependencyInstalled @open-city-protocol/web3-core-method web3-core-promievent
 183 silly dependencyIsSatisfied [ 'web3-core-promievent',
 183 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 183 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-core-method/node_modules' ]
-184 verbose dependencyIsSatisfied web3-core-promievent true
+184 verbose dependencyIsSatisfied web3-core-promievent false
 185 silly hasDependencyInstalled @open-city-protocol/web3-eth-contract web3-core-promievent
 186 silly dependencyIsSatisfied [ 'web3-core-promievent',
 186 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 186 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-contract/node_modules' ]
-187 verbose dependencyIsSatisfied web3-core-promievent true
+187 verbose dependencyIsSatisfied web3-core-promievent false
 188 silly hasDependencyInstalled @open-city-protocol/web3-eth-ens web3-core-promievent
 189 silly dependencyIsSatisfied [ 'web3-core-promievent',
 189 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 189 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-ens/node_modules' ]
-190 verbose dependencyIsSatisfied web3-core-promievent true
+190 verbose dependencyIsSatisfied web3-core-promievent false
 191 silly hasDependencyInstalled @open-city-protocol/web3-core-method web3-core-subscriptions
 192 silly dependencyIsSatisfied [ 'web3-core-subscriptions',
 192 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 192 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-core-method/node_modules' ]
-193 verbose dependencyIsSatisfied web3-core-subscriptions true
+193 verbose dependencyIsSatisfied web3-core-subscriptions false
 194 silly hasDependencyInstalled @open-city-protocol/web3-eth-contract web3-core-subscriptions
 195 silly dependencyIsSatisfied [ 'web3-core-subscriptions',
 195 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 195 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-contract/node_modules' ]
-196 verbose dependencyIsSatisfied web3-core-subscriptions true
+196 verbose dependencyIsSatisfied web3-core-subscriptions false
 197 silly hasDependencyInstalled @open-city-protocol/web3-eth web3-core-subscriptions
 198 silly dependencyIsSatisfied [ 'web3-core-subscriptions',
 198 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 198 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth/node_modules' ]
-199 verbose dependencyIsSatisfied web3-core-subscriptions true
+199 verbose dependencyIsSatisfied web3-core-subscriptions false
 200 silly hasDependencyInstalled @open-city-protocol/web3-shh web3-core-subscriptions
 201 silly dependencyIsSatisfied [ 'web3-core-subscriptions',
 201 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 201 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-shh/node_modules' ]
-202 verbose dependencyIsSatisfied web3-core-subscriptions true
+202 verbose dependencyIsSatisfied web3-core-subscriptions false
 203 silly hasDependencyInstalled @open-city-protocol/web3-core-promievent any-promise
 204 silly dependencyIsSatisfied [ 'any-promise',
 204 silly dependencyIsSatisfied   '1.3.0',
@@ -331,57 +331,57 @@
 216 silly dependencyIsSatisfied [ 'web3-providers-http',
 216 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 216 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-core-requestmanager/node_modules' ]
-217 verbose dependencyIsSatisfied web3-providers-http true
+217 verbose dependencyIsSatisfied web3-providers-http false
 218 silly hasDependencyInstalled @open-city-protocol/web3-core-requestmanager web3-providers-ipc
 219 silly dependencyIsSatisfied [ 'web3-providers-ipc',
 219 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 219 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-core-requestmanager/node_modules' ]
-220 verbose dependencyIsSatisfied web3-providers-ipc true
+220 verbose dependencyIsSatisfied web3-providers-ipc false
 221 silly hasDependencyInstalled @open-city-protocol/web3-core-requestmanager web3-providers-ws
 222 silly dependencyIsSatisfied [ 'web3-providers-ws',
 222 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 222 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-core-requestmanager/node_modules' ]
-223 verbose dependencyIsSatisfied web3-providers-ws true
+223 verbose dependencyIsSatisfied web3-providers-ws false
 224 silly hasDependencyInstalled @open-city-protocol/web3-core web3-core-method
 225 silly dependencyIsSatisfied [ 'web3-core-method',
 225 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 225 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-core/node_modules' ]
-226 verbose dependencyIsSatisfied web3-core-method true
+226 verbose dependencyIsSatisfied web3-core-method false
 227 silly hasDependencyInstalled @open-city-protocol/web3-eth-accounts web3-core-method
 228 silly dependencyIsSatisfied [ 'web3-core-method',
 228 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 228 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-accounts/node_modules' ]
-229 verbose dependencyIsSatisfied web3-core-method true
+229 verbose dependencyIsSatisfied web3-core-method false
 230 silly hasDependencyInstalled @open-city-protocol/web3-eth-contract web3-core-method
 231 silly dependencyIsSatisfied [ 'web3-core-method',
 231 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 231 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-contract/node_modules' ]
-232 verbose dependencyIsSatisfied web3-core-method true
+232 verbose dependencyIsSatisfied web3-core-method false
 233 silly hasDependencyInstalled @open-city-protocol/web3-eth-personal web3-core-method
 234 silly dependencyIsSatisfied [ 'web3-core-method',
 234 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 234 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-personal/node_modules' ]
-235 verbose dependencyIsSatisfied web3-core-method true
+235 verbose dependencyIsSatisfied web3-core-method false
 236 silly hasDependencyInstalled @open-city-protocol/web3-eth web3-core-method
 237 silly dependencyIsSatisfied [ 'web3-core-method',
 237 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 237 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth/node_modules' ]
-238 verbose dependencyIsSatisfied web3-core-method true
+238 verbose dependencyIsSatisfied web3-core-method false
 239 silly hasDependencyInstalled @open-city-protocol/web3-net web3-core-method
 240 silly dependencyIsSatisfied [ 'web3-core-method',
 240 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 240 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-net/node_modules' ]
-241 verbose dependencyIsSatisfied web3-core-method true
+241 verbose dependencyIsSatisfied web3-core-method false
 242 silly hasDependencyInstalled @open-city-protocol/web3-shh web3-core-method
 243 silly dependencyIsSatisfied [ 'web3-core-method',
 243 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 243 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-shh/node_modules' ]
-244 verbose dependencyIsSatisfied web3-core-method true
+244 verbose dependencyIsSatisfied web3-core-method false
 245 silly hasDependencyInstalled @open-city-protocol/web3-core web3-core-requestmanager
 246 silly dependencyIsSatisfied [ 'web3-core-requestmanager',
 246 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 246 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-core/node_modules' ]
-247 verbose dependencyIsSatisfied web3-core-requestmanager true
+247 verbose dependencyIsSatisfied web3-core-requestmanager false
 248 silly hasDependencyInstalled @open-city-protocol/web3-eth-abi ethers
 249 silly dependencyIsSatisfied [ 'ethers',
 249 silly dependencyIsSatisfied   '4.0.0-beta.1',
@@ -416,57 +416,57 @@
 267 silly dependencyIsSatisfied [ 'web3-core',
 267 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 267 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-accounts/node_modules' ]
-268 verbose dependencyIsSatisfied web3-core true
+268 verbose dependencyIsSatisfied web3-core false
 269 silly hasDependencyInstalled @open-city-protocol/web3-eth-contract web3-core
 270 silly dependencyIsSatisfied [ 'web3-core',
 270 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 270 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-contract/node_modules' ]
-271 verbose dependencyIsSatisfied web3-core true
+271 verbose dependencyIsSatisfied web3-core false
 272 silly hasDependencyInstalled @open-city-protocol/web3-eth-ens web3-core
 273 silly dependencyIsSatisfied [ 'web3-core',
 273 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 273 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-ens/node_modules' ]
-274 verbose dependencyIsSatisfied web3-core true
+274 verbose dependencyIsSatisfied web3-core false
 275 silly hasDependencyInstalled @open-city-protocol/web3-eth-personal web3-core
 276 silly dependencyIsSatisfied [ 'web3-core',
 276 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 276 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-personal/node_modules' ]
-277 verbose dependencyIsSatisfied web3-core true
+277 verbose dependencyIsSatisfied web3-core false
 278 silly hasDependencyInstalled @open-city-protocol/web3-eth web3-core
 279 silly dependencyIsSatisfied [ 'web3-core',
 279 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 279 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth/node_modules' ]
-280 verbose dependencyIsSatisfied web3-core true
+280 verbose dependencyIsSatisfied web3-core false
 281 silly hasDependencyInstalled @open-city-protocol/web3-net web3-core
 282 silly dependencyIsSatisfied [ 'web3-core',
 282 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 282 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-net/node_modules' ]
-283 verbose dependencyIsSatisfied web3-core true
+283 verbose dependencyIsSatisfied web3-core false
 284 silly hasDependencyInstalled @open-city-protocol/web3-shh web3-core
 285 silly dependencyIsSatisfied [ 'web3-core',
 285 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 285 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-shh/node_modules' ]
-286 verbose dependencyIsSatisfied web3-core true
+286 verbose dependencyIsSatisfied web3-core false
 287 silly hasDependencyInstalled @open-city-protocol/web3 web3-core
 288 silly dependencyIsSatisfied [ 'web3-core',
 288 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 288 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3/node_modules' ]
-289 verbose dependencyIsSatisfied web3-core true
+289 verbose dependencyIsSatisfied web3-core false
 290 silly hasDependencyInstalled @open-city-protocol/web3-eth-contract web3-eth-abi
 291 silly dependencyIsSatisfied [ 'web3-eth-abi',
 291 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 291 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-contract/node_modules' ]
-292 verbose dependencyIsSatisfied web3-eth-abi true
+292 verbose dependencyIsSatisfied web3-eth-abi false
 293 silly hasDependencyInstalled @open-city-protocol/web3-eth-ens web3-eth-abi
 294 silly dependencyIsSatisfied [ 'web3-eth-abi',
 294 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 294 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-ens/node_modules' ]
-295 verbose dependencyIsSatisfied web3-eth-abi true
+295 verbose dependencyIsSatisfied web3-eth-abi false
 296 silly hasDependencyInstalled @open-city-protocol/web3-eth web3-eth-abi
 297 silly dependencyIsSatisfied [ 'web3-eth-abi',
 297 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 297 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth/node_modules' ]
-298 verbose dependencyIsSatisfied web3-eth-abi true
+298 verbose dependencyIsSatisfied web3-eth-abi false
 299 silly hasDependencyInstalled @open-city-protocol/web3-eth-ens eth-ens-namehash
 300 silly dependencyIsSatisfied [ 'eth-ens-namehash',
 300 silly dependencyIsSatisfied   '2.0.8',
@@ -476,52 +476,52 @@
 303 silly dependencyIsSatisfied [ 'web3-eth-contract',
 303 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 303 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-ens/node_modules' ]
-304 verbose dependencyIsSatisfied web3-eth-contract true
+304 verbose dependencyIsSatisfied web3-eth-contract false
 305 silly hasDependencyInstalled @open-city-protocol/web3-eth web3-eth-contract
 306 silly dependencyIsSatisfied [ 'web3-eth-contract',
 306 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 306 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth/node_modules' ]
-307 verbose dependencyIsSatisfied web3-eth-contract true
+307 verbose dependencyIsSatisfied web3-eth-contract false
 308 silly hasDependencyInstalled @open-city-protocol/web3-eth-personal web3-net
 309 silly dependencyIsSatisfied [ 'web3-net',
 309 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 309 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth-personal/node_modules' ]
-310 verbose dependencyIsSatisfied web3-net true
+310 verbose dependencyIsSatisfied web3-net false
 311 silly hasDependencyInstalled @open-city-protocol/web3-eth web3-net
 312 silly dependencyIsSatisfied [ 'web3-net',
 312 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 312 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth/node_modules' ]
-313 verbose dependencyIsSatisfied web3-net true
+313 verbose dependencyIsSatisfied web3-net false
 314 silly hasDependencyInstalled @open-city-protocol/web3-shh web3-net
 315 silly dependencyIsSatisfied [ 'web3-net',
 315 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 315 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-shh/node_modules' ]
-316 verbose dependencyIsSatisfied web3-net true
+316 verbose dependencyIsSatisfied web3-net false
 317 silly hasDependencyInstalled @open-city-protocol/web3 web3-net
 318 silly dependencyIsSatisfied [ 'web3-net',
 318 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 318 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3/node_modules' ]
-319 verbose dependencyIsSatisfied web3-net true
+319 verbose dependencyIsSatisfied web3-net false
 320 silly hasDependencyInstalled @open-city-protocol/web3-eth web3-eth-accounts
 321 silly dependencyIsSatisfied [ 'web3-eth-accounts',
 321 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 321 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth/node_modules' ]
-322 verbose dependencyIsSatisfied web3-eth-accounts true
+322 verbose dependencyIsSatisfied web3-eth-accounts false
 323 silly hasDependencyInstalled @open-city-protocol/web3-eth web3-eth-ens
 324 silly dependencyIsSatisfied [ 'web3-eth-ens',
 324 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 324 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth/node_modules' ]
-325 verbose dependencyIsSatisfied web3-eth-ens true
+325 verbose dependencyIsSatisfied web3-eth-ens false
 326 silly hasDependencyInstalled @open-city-protocol/web3-eth web3-eth-personal
 327 silly dependencyIsSatisfied [ 'web3-eth-personal',
 327 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 327 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3-eth/node_modules' ]
-328 verbose dependencyIsSatisfied web3-eth-personal true
+328 verbose dependencyIsSatisfied web3-eth-personal false
 329 silly hasDependencyInstalled @open-city-protocol/web3 web3-eth-personal
 330 silly dependencyIsSatisfied [ 'web3-eth-personal',
 330 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 330 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3/node_modules' ]
-331 verbose dependencyIsSatisfied web3-eth-personal true
+331 verbose dependencyIsSatisfied web3-eth-personal false
 332 silly hasDependencyInstalled @open-city-protocol/web3-providers-http xhr2-cookies
 333 silly dependencyIsSatisfied [ 'xhr2-cookies',
 333 silly dependencyIsSatisfied   '1.1.0',
@@ -561,17 +561,17 @@
 354 silly dependencyIsSatisfied [ 'web3-bzz',
 354 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 354 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3/node_modules' ]
-355 verbose dependencyIsSatisfied web3-bzz true
+355 verbose dependencyIsSatisfied web3-bzz false
 356 silly hasDependencyInstalled @open-city-protocol/web3 web3-eth
 357 silly dependencyIsSatisfied [ 'web3-eth',
 357 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 357 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3/node_modules' ]
-358 verbose dependencyIsSatisfied web3-eth true
+358 verbose dependencyIsSatisfied web3-eth false
 359 silly hasDependencyInstalled @open-city-protocol/web3 web3-shh
 360 silly dependencyIsSatisfied [ 'web3-shh',
 360 silly dependencyIsSatisfied   '1.0.0-beta.36.1',
 360 silly dependencyIsSatisfied   '/home/jeichel/workspace/web3.js/packages/web3/node_modules' ]
-361 verbose dependencyIsSatisfied web3-shh true
+361 verbose dependencyIsSatisfied web3-shh false
 362 silly root dependencies []
 363 silly leaf dependencies {
 363 silly leaf dependencies   "@open-city-protocol/web3-eth-iban": [
@@ -581,7 +581,7 @@
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-utils@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     }
 363 silly leaf dependencies   ],
 363 silly leaf dependencies   "@open-city-protocol/web3-utils": [
@@ -635,11 +635,11 @@
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-eth-iban@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-utils@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     }
 363 silly leaf dependencies   ],
 363 silly leaf dependencies   "@open-city-protocol/web3-core-method": [
@@ -649,19 +649,19 @@
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-utils@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-helpers@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-promievent@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-subscriptions@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     }
 363 silly leaf dependencies   ],
 363 silly leaf dependencies   "@open-city-protocol/web3-core-requestmanager": [
@@ -671,19 +671,19 @@
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-helpers@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-providers-http@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-providers-ipc@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-providers-ws@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     }
 363 silly leaf dependencies   ],
 363 silly leaf dependencies   "@open-city-protocol/web3-core-subscriptions": [
@@ -693,7 +693,7 @@
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-helpers@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "eventemitter3@1.1.1",
@@ -707,7 +707,7 @@
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-utils@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "ethers@4.0.0-beta.1",
@@ -721,11 +721,11 @@
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-utils@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-helpers@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "any-promise@1.3.0",
@@ -733,7 +733,7 @@
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-method@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "crypto-browserify@3.12.0",
@@ -753,7 +753,7 @@
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     }
 363 silly leaf dependencies   ],
 363 silly leaf dependencies   "@open-city-protocol/web3-eth-contract": [
@@ -763,31 +763,31 @@
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-utils@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-helpers@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-promievent@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-subscriptions@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-method@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-eth-abi@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     }
 363 silly leaf dependencies   ],
 363 silly leaf dependencies   "@open-city-protocol/web3-eth-ens": [
@@ -797,23 +797,23 @@
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-utils@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-helpers@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-promievent@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-eth-abi@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "eth-ens-namehash@2.0.8",
@@ -821,7 +821,7 @@
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-eth-contract@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     }
 363 silly leaf dependencies   ],
 363 silly leaf dependencies   "@open-city-protocol/web3-eth": [
@@ -831,51 +831,51 @@
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-eth-iban@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-utils@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-helpers@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-subscriptions@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-method@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-eth-abi@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-eth-contract@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-net@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-eth-accounts@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-eth-ens@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-eth-personal@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     }
 363 silly leaf dependencies   ],
 363 silly leaf dependencies   "@open-city-protocol/web3-providers-ipc": [
@@ -885,7 +885,7 @@
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-helpers@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "oboe@2.1.3",
@@ -899,7 +899,7 @@
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-helpers@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "websocket@git://github.com/frozeman/WebSocket-Node.git#browserifyCompatible",
@@ -909,91 +909,91 @@
 363 silly leaf dependencies   "@open-city-protocol/web3-core": [
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-utils@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-helpers@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-method@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-requestmanager@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     }
 363 silly leaf dependencies   ],
 363 silly leaf dependencies   "@open-city-protocol/web3-eth-personal": [
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-utils@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-helpers@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-method@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-net@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     }
 363 silly leaf dependencies   ],
 363 silly leaf dependencies   "@open-city-protocol/web3-net": [
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-utils@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-method@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     }
 363 silly leaf dependencies   ],
 363 silly leaf dependencies   "@open-city-protocol/web3": [
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-utils@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-net@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-eth-personal@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-bzz@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-eth@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-shh@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     }
 363 silly leaf dependencies   ],
 363 silly leaf dependencies   "@open-city-protocol/web3-providers-http": [
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-helpers@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "xhr2-cookies@1.1.0",
@@ -1003,19 +1003,19 @@
 363 silly leaf dependencies   "@open-city-protocol/web3-shh": [
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-subscriptions@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core-method@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-core@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     },
 363 silly leaf dependencies     {
 363 silly leaf dependencies       "dependency": "web3-net@1.0.0-beta.36.1",
-363 silly leaf dependencies       "isSatisfied": true
+363 silly leaf dependencies       "isSatisfied": false
 363 silly leaf dependencies     }
 363 silly leaf dependencies   ],
 363 silly leaf dependencies   "@open-city-protocol/web3-core-promievent": [
@@ -1030,32 +1030,71 @@
 363 silly leaf dependencies   ]
 363 silly leaf dependencies }
 364 info Installing external dependencies
-365 verbose actions 1 actions, concurrency 4
-366 silly installInDir web3-providers-ws [ 'underscore@1.8.3',
-366 silly installInDir   'web3-core-helpers@1.0.0-beta.36.1',
-366 silly installInDir   'websocket@git://github.com/frozeman/WebSocket-Node.git#browserifyCompatible' ]
-367 silly installInDir backup /home/jeichel/workspace/web3.js/packages/web3-providers-ws/package.json
-368 silly rename [ '/home/jeichel/workspace/web3.js/packages/web3-providers-ws/package.json',
-368 silly rename   '/home/jeichel/workspace/web3.js/packages/web3-providers-ws/package.json.lerna_backup' ]
-369 silly installInDir writing tempJson { dependencies:
-369 silly installInDir    { underscore: '1.8.3',
-369 silly installInDir      'web3-core-helpers': '1.0.0-beta.36.1',
-369 silly installInDir      websocket: 'git://github.com/frozeman/WebSocket-Node.git#browserifyCompatible' } }
-370 silly getExecOpts { cwd: '/home/jeichel/workspace/web3.js/packages/web3-providers-ws' }
-371 silly installInDir [ 'npm', [ 'install' ] ]
-372 silly installInDir cleanup /home/jeichel/workspace/web3.js/packages/web3-providers-ws/package.json
-373 silly renameSync [ '/home/jeichel/workspace/web3.js/packages/web3-providers-ws/package.json.lerna_backup',
-373 silly renameSync   '/home/jeichel/workspace/web3.js/packages/web3-providers-ws/package.json' ]
-374 verbose installed leaf @open-city-protocol/web3-providers-ws
-375 error execute callback with error
-376 error Error: Command failed: npm install
-376 error npm ERR! code ETARGET
-376 error npm ERR! notarget No matching version found for web3-core-helpers@1.0.0-beta.36.1
-376 error npm ERR! notarget In most cases you or one of your dependencies are requesting
-376 error npm ERR! notarget a package version that doesn't exist.
-376 error
-376 error npm ERR! A complete log of this run can be found in:
-376 error npm ERR!     /home/jeichel/.npm/_logs/2018-11-20T21_50_39_717Z-debug.log
-376 error
-376 error     at Promise.all.then.arr (/home/jeichel/workspace/web3.js/node_modules/execa/index.js:236:11)
-376 error     at <anonymous>
+365 verbose actions 18 actions, concurrency 4
+366 silly installInDir web3-eth-iban [ 'bn.js@4.11.6', 'web3-utils@1.0.0-beta.36.1' ]
+367 silly installInDir backup /home/jeichel/workspace/web3.js/packages/web3-eth-iban/package.json
+368 silly rename [ '/home/jeichel/workspace/web3.js/packages/web3-eth-iban/package.json',
+368 silly rename   '/home/jeichel/workspace/web3.js/packages/web3-eth-iban/package.json.lerna_backup' ]
+369 silly installInDir web3-core-helpers [ 'underscore@1.8.3',
+369 silly installInDir   'web3-eth-iban@1.0.0-beta.36.1',
+369 silly installInDir   'web3-utils@1.0.0-beta.36.1' ]
+370 silly installInDir backup /home/jeichel/workspace/web3.js/packages/web3-core-helpers/package.json
+371 silly rename [ '/home/jeichel/workspace/web3.js/packages/web3-core-helpers/package.json',
+371 silly rename   '/home/jeichel/workspace/web3.js/packages/web3-core-helpers/package.json.lerna_backup' ]
+372 silly installInDir web3-core-method [ 'underscore@1.8.3',
+372 silly installInDir   'web3-utils@1.0.0-beta.36.1',
+372 silly installInDir   'web3-core-helpers@1.0.0-beta.36.1',
+372 silly installInDir   'web3-core-promievent@1.0.0-beta.36.1',
+372 silly installInDir   'web3-core-subscriptions@1.0.0-beta.36.1' ]
+373 silly installInDir backup /home/jeichel/workspace/web3.js/packages/web3-core-method/package.json
+374 silly rename [ '/home/jeichel/workspace/web3.js/packages/web3-core-method/package.json',
+374 silly rename   '/home/jeichel/workspace/web3.js/packages/web3-core-method/package.json.lerna_backup' ]
+375 silly installInDir web3-core-requestmanager [ 'underscore@1.8.3',
+375 silly installInDir   'web3-core-helpers@1.0.0-beta.36.1',
+375 silly installInDir   'web3-providers-http@1.0.0-beta.36.1',
+375 silly installInDir   'web3-providers-ipc@1.0.0-beta.36.1',
+375 silly installInDir   'web3-providers-ws@1.0.0-beta.36.1' ]
+376 silly installInDir backup /home/jeichel/workspace/web3.js/packages/web3-core-requestmanager/package.json
+377 silly rename [ '/home/jeichel/workspace/web3.js/packages/web3-core-requestmanager/package.json',
+377 silly rename   '/home/jeichel/workspace/web3.js/packages/web3-core-requestmanager/package.json.lerna_backup' ]
+378 silly installInDir writing tempJson { dependencies: { 'bn.js': '4.11.6', 'web3-utils': '1.0.0-beta.36.1' } }
+379 silly installInDir writing tempJson { dependencies:
+379 silly installInDir    { underscore: '1.8.3',
+379 silly installInDir      'web3-eth-iban': '1.0.0-beta.36.1',
+379 silly installInDir      'web3-utils': '1.0.0-beta.36.1' } }
+380 silly installInDir writing tempJson { dependencies:
+380 silly installInDir    { underscore: '1.8.3',
+380 silly installInDir      'web3-utils': '1.0.0-beta.36.1',
+380 silly installInDir      'web3-core-helpers': '1.0.0-beta.36.1',
+380 silly installInDir      'web3-core-promievent': '1.0.0-beta.36.1',
+380 silly installInDir      'web3-core-subscriptions': '1.0.0-beta.36.1' } }
+381 silly installInDir writing tempJson { dependencies:
+381 silly installInDir    { underscore: '1.8.3',
+381 silly installInDir      'web3-core-helpers': '1.0.0-beta.36.1',
+381 silly installInDir      'web3-providers-http': '1.0.0-beta.36.1',
+381 silly installInDir      'web3-providers-ipc': '1.0.0-beta.36.1',
+381 silly installInDir      'web3-providers-ws': '1.0.0-beta.36.1' } }
+382 silly getExecOpts { cwd: '/home/jeichel/workspace/web3.js/packages/web3-eth-iban' }
+383 silly installInDir [ 'npm', [ 'install' ] ]
+384 silly getExecOpts { cwd: '/home/jeichel/workspace/web3.js/packages/web3-core-method' }
+385 silly installInDir [ 'npm', [ 'install' ] ]
+386 silly getExecOpts { cwd: '/home/jeichel/workspace/web3.js/packages/web3-core-requestmanager' }
+387 silly installInDir [ 'npm', [ 'install' ] ]
+388 silly getExecOpts { cwd: '/home/jeichel/workspace/web3.js/packages/web3-core-helpers' }
+389 silly installInDir [ 'npm', [ 'install' ] ]
+390 silly installInDir cleanup /home/jeichel/workspace/web3.js/packages/web3-eth-iban/package.json
+391 silly renameSync [ '/home/jeichel/workspace/web3.js/packages/web3-eth-iban/package.json.lerna_backup',
+391 silly renameSync   '/home/jeichel/workspace/web3.js/packages/web3-eth-iban/package.json' ]
+392 verbose installed leaf @open-city-protocol/web3-eth-iban
+393 error execute callback with error
+394 error Error: Command failed: npm install
+394 error npm ERR! code ETARGET
+394 error npm ERR! notarget No matching version found for web3-utils@1.0.0-beta.36.1
+394 error npm ERR! notarget In most cases you or one of your dependencies are requesting
+394 error npm ERR! notarget a package version that doesn't exist.
+394 error
+394 error npm ERR! A complete log of this run can be found in:
+394 error npm ERR!     /home/jeichel/.npm/_logs/2018-11-20T21_56_05_484Z-debug.log
+394 error
+394 error     at Promise.all.then.arr (/home/jeichel/workspace/web3.js/node_modules/execa/index.js:236:11)
+394 error     at <anonymous>
